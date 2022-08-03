@@ -27,7 +27,7 @@ int main(void)
 
   if (distance > 30)
   {
-    printf("Amount is : %d", (ditance-30)*40 + 30*50);
+    printf("Amount is : %d", (distance-30)*40 + 30*50);
   }
 
   else 
